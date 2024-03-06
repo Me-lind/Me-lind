@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Me-lind
-- 👀 I’m interested in Data Science.
-- 🌱 My coding skills with python are all over the place but I'm still learning.
-- 💞️ I’m looking to collaborate on as many helpful projects as possible 
-- 📫 you can reach me at LinkedIn Melinda Chebet 
+- 👋 Hi, I’m Melinda
+- 👀 I’m interested in Data Science,Machine Learning and AI.
+- 🌱 My coding skills with python are getting better by the day trust me.
+- 💞️ I’m learning data manipulation, analysis, and visualization alongside machine learning techniques and algorithms. 
 
 <!---
 Me-lind/Me-lind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
