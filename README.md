@@ -1,5 +1,4 @@
-## 👋 Hi, I’m Melinda
-Welcome to my GitHub profile! Here’s a bit about me and my learning journey:  
+# 👋 Hi, I’m Melinda
 
 ## 💡 About Me:
 🎓 I’ve studied Computer Science, gaining a broad understanding of different areas, but eventually found my passion in Data Science.  
